@@ -1,0 +1,17 @@
+{
+  "name": "com.hirame.meshcombiner",
+  "version": "1.0.0",
+  "displayName": "Mesh Combiner",
+  "description": "A Tool to combine multimple meshes into one.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+ },
+ "keywords": [
+  ],
+  "author": {
+    "name": "Bernhard Miettinen",
+    "email": "bernhard.miettinen@gmail.com",
+    "url": "https://www.github.com/sunrisehirame"
+  } 
+}
