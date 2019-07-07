@@ -1,8 +1,8 @@
 {
-  "name": "com.hirame.meshcombiner",
+  "name": "com.hirame.meshtools",
   "version": "1.0.0",
-  "displayName": "Hirame Mesh Combiner",
-  "description": "A Tool to combine multimple meshes into one.",
+  "displayName": "Hirame Mesh Tools",
+  "description": "A Tool to edit meshes in editor and during runtime.",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "dependencies": {
