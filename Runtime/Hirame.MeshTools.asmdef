@@ -1,12 +1,8 @@
 {
-    "name": "Hirame.MeshCombiner.Editor",
-    "references": [
-        "GUID:8d1d62ac1bcdba449b5096c015b000e8"
-    ],
+    "name": "Hirame.MeshTools",
+    "references": [],
     "optionalUnityReferences": [],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
